@@ -1,0 +1,30 @@
+header.masthead .overlay {
+  /*background-color: #FFC1BD;*/
+}
+
+.masthead {
+}
+
+.nav-item {
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  border-color: rgb(255,182,193);
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  /*background-color: #00657b!important;*/
+  color: rgb(255,182,193);
+  border-color: rgb(255,182,193);
+}
+
+header.masthead .overlay {
+  min-height: 100%;
+}
+
+.btn.btn-primary.active.float-right:hover {
+  background-color: #FFFAFA;
+  color: rgb(255,182,193);
+  text-decoration: none;
+}
+
