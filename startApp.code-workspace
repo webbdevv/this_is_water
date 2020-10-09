@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../CS32(C++)/CS32Homework:Practice/CrackingtheCoding"
+		},
+		{
+			"path": "../../CS32(C++)/CS32_Notes"
+		},
+		{
+			"path": "../../HTML WorkSpace/HTML_Notes"
+		},
+		{
+			"path": "../pingpongapp"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stack": "cpp"
+		}
+	}
+}
